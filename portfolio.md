@@ -7,7 +7,7 @@ Major: Computer Programming and Analysis
 ## Skills
 - Programming: C++, JavaScript
 - Git: Advanced
-- Database: SQLg
+- Database: SQL
 
 ## Projects
 - Project 1: Pokemon API Automation Testing

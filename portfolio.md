@@ -5,8 +5,9 @@ Name: Ada Høeg
 Major: Computer Programming and Analysis
 
 ## Skills
-- Programming: intermediate-advanced
-- Git: Advanced
+- Programming: Python, Java
+- Git: Intermediate
+- Web Development: HTML, CSS
 
 ## Projects
 - Project 1: Pokemon API Automation Testing
